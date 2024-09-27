@@ -71,7 +71,7 @@ a.header__nav--active {
 .class-plan__title {
     text-transform: uppercase;
     border-bottom: 2px solid #cbe300;
-    margin-top: 0px;
+    margin-top: 10px;
     padding-bottom: 10px;
     letter-spacing: 2px;
 }
@@ -98,7 +98,7 @@ a.header__nav--active {
 
 .pricing-plan__cta {
     text-decoration: none;  
-    color: white;
+    color: black;
     background-color: #cbe300;
     border-radius: 6px;
     text-transform: uppercase;
